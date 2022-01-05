@@ -39,7 +39,9 @@ experience:
     date_end: '2021-08-31'
     description: |2-
         Responsibilities include:
-        * To optimize the bull-eye nanostructure which can generate the strongest stationary magnetic fields under cicularly polarized light excitation.
+		
+        * To optimize the diemensions of bull-eye nanostructure
+		* Modelling in Lumerical FDTD
 		* Simulation in Lumerical FDTD
 		* Optimization in MATLAB
 		
