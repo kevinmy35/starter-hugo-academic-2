@@ -41,17 +41,18 @@ url_source: ""
 url_video: ""
 title: Tesla-Range Femtosecond Pulses of Stationary Magnetic Field, Optically
   Generated at the Nanoscale in a Plasmonic Antenna
-doi: ""
-featured: true
+doi: https://doi.org/10.1021/acsnano.1c06922
+featured: false
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: null
 date: 2022-01-05T13:21:39.601Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
