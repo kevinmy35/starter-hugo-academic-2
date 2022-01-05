@@ -1,6 +1,6 @@
 ---
 title: Ye Mou
-role: Professor of Artificial Intelligence
+role: PhD student at INSP, Sorbonne Université
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -41,9 +41,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Ye Mou is currently a PhD student at the laboratory [INSP](https://w3.insp.upmc.fr/) of Sorbonne Université. He received his Bachelor of engeering degree and Master of engenerring degree from [Noreastern University](http://www.neu.edu.cn/) (China) and [INP-ENSEEIHT](https://www.enseeiht.fr/fr/index.html) (France), respectively.
