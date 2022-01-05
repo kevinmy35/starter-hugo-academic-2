@@ -22,28 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: M2 Intership
+    company: Institut des NanoSciences de Paris - INSP
+    company_url: 'https://w3.insp.upmc.fr/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Paris
+    date_start: '2021-04-01'
+    date_end: '2021-08-31'
     description: |2-
         Responsibilities include:
         
         * Analysing
         * Modelling
-        * Deploying
+        * Simulation
+        * Optimization
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: M1 Intership
+    company: Laboratoire plasma et conversion d'énergie - LAPLACE
+    company_url: 'http://www.laplace.univ-tlse.fr/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Toulouse
+    date_start: '2020-06'
+    date_end: '2020-08'
+    description: Development under MATLAB of a program for calculating electromagnetic fields around a rectangular opening supplied by a guide
+rectangular wave
 
 design:
   columns: '2'
