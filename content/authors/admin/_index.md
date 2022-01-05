@@ -1,7 +1,7 @@
 ---
 title: Ye Mou
 role: PhD student at Institut des NanoSciences de Paris (INSP)
-avatar_filename: my.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Nanophotonics & Plasmonics, Inverse Faraday
   Effect, Light-Matter interactions, Numerical Optimization
 interests:
