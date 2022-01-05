@@ -37,14 +37,11 @@ experience:
     location: Paris
     date_start: '2021-04-01'
     date_end: '2021-08-31'
-    description:
-	    1. To optimize the bull-eye nanostructure which can generate the strongest stationary magnetic fields under cicularly polarized light excitation.
-        2. Responsibilities include:
-        
-			* Analysing
-			* Modelling
-			* Simulation in Lumerical FDTD
-			* Optimization in MATLAB
+    description: |2-
+        Responsibilities include:
+        * To optimize the bull-eye nanostructure which can generate the strongest stationary magnetic fields under cicularly polarized light excitation.
+		* Simulation in Lumerical FDTD
+		* Optimization in MATLAB
 		
   - title: M1 Intership
     company: Laboratoire plasma et conversion d'énergie - LAPLACE
