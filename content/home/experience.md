@@ -41,7 +41,6 @@ experience:
         Responsibilities include:
 		
         * To optimize the diemensions of bull-eye nanostructure
-		* Modelling in Lumerical FDTD
 		* Simulation in Lumerical FDTD
 		* Optimization in MATLAB
 		
