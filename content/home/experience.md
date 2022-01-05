@@ -34,7 +34,8 @@ experience:
         
         * Analysing
         * Modelling
-        * Deploying
+        * Simulation
+        * Optimization
         
   - title: Professor of Semiconductor Physics
     company: University X
