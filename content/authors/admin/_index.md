@@ -34,4 +34,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Ye Mou is currently a PhD student supervised by [Mathieu Mivelle](https://sites.google.com/view/mathieumivelle/home) at the laboratory [INSP](https://w3.insp.upmc.fr/) of Sorbonne Université. He received Master of Engineering and Bachelor of Engineering from INP-ENSEEIHT (France) and Northeastern University (China), respectively.
+Ye Mou is currently a PhD student supervised by [Mathieu Mivelle](https://sites.google.com/view/mathieumivelle/home) at the laboratory [INSP](https://w3.insp.upmc.fr/) of Sorbonne Université. He obtained his Master of Engineering and Bachelor of Engineering from INP-ENSEEIHT (France) and Northeastern University (China), respectively.
