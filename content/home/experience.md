@@ -44,7 +44,7 @@ experience:
     location: Toulouse
     date_start: '2020-07-13'
     date_end: '2020-09-14'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Calculating electromagnetic fields around a rectangular in MATLAB
 
 design:
   columns: '2'
