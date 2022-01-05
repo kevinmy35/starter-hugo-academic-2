@@ -8,6 +8,7 @@ interests:
   - Numerical optimization
   - Black–Box optimization
   - Nanoantenna design
+  - Light-Matter interactions
 social:
   - icon: envelope
     icon_pack: fas
