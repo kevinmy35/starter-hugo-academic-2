@@ -25,13 +25,13 @@ organizations:
 education:
   courses:
     - course: MEng in Computational Physics
-      institution: INP-ENSEEIHT
+      institution: [INP-ENSEEIHT](https://www.enseeiht.fr/fr/index.html)
       year: 2021
     - course: BEng in Automation
-      institution: Northeastern University
+      institution: [Northeastern University](http://www.neu.edu.cn/)
       year: 2019
 email: ""
 superuser: true
 highlight_name: true
 ---
-Ye Mou is currently a PhD student at the laboratory [INSP](https://w3.insp.upmc.fr/) of Sorbonne Université. He received his Bachelor of Engineering and Master of Engineering from [Northeastern University](http://www.neu.edu.cn/) (China) and [INP-ENSEEIHT](https://www.enseeiht.fr/fr/index.html) (France), respectively.
+Ye Mou is currently a PhD student supervised by [Mathieu Mivelle](https://sites.google.com/view/mathieumivelle/home) at the laboratory [INSP](https://w3.insp.upmc.fr/) of Sorbonne Université. He received his Bachelor of Engineering and Master of Engineering from Northeastern University (China) and INP-ENSEEIHT (France), respectively.
