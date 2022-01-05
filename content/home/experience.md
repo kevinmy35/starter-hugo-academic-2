@@ -42,9 +42,11 @@ experience:
         
         * Analysing
         * Modelling
-        * Simulation
-        * Optimization
-        
+        * Simulation in Lumerical FDTD
+        * Optimization in MATLAB
+		
+        To optimize the bull-eye nanostructure which can generate the strongest stationary magnetic fields under cicularly polarized light excitation.
+		
   - title: M1 Intership
     company: Laboratoire plasma et conversion d'énergie - LAPLACE
     company_url: 'http://www.laplace.univ-tlse.fr/'
