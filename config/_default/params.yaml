@@ -20,21 +20,41 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ye.mou@insp.upmc.fr
-phone: +33(0)6 67 97 87 16 
-
+email: test@example.org
+phone: 888 888 88 88
 address:
-  street: 4 Place Jussieu
-  city: Paris
-  region: Île-de-France
-  postcode: '75005'
-  country: France
-  country_code: FR
-  
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+  country_code: US
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Tour 22-32
+directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+office_hours:
+  - 'Monday 10:00 to 13:00'
+  - 'Wednesday 09:00 to 10:00'
+appointment_url: 'https://calendly.com'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/Twitter'
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'skype:echo123?call'
+  - icon: keybase
+    icon_pack: fab
+    name: Chat on Keybase
+    link: 'https://keybase.io/'
+  - icon: comments
+    icon_pack: fas
+    name: Discuss on Forum
+    link: 'https://discourse.gohugo.io'
+
 # Site header
 
 main_menu:
@@ -78,7 +98,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: false
+sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false
