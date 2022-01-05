@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: M2 Intership
     company: Institut des NanoSciences de Paris - INSP
-    company_url: 'https://w3.insp.upmc.fr/'
+    company_url: ''
     company_logo: org-gc
     location: Paris
     date_start: '2021-04-01'
@@ -39,7 +39,7 @@ experience:
         
   - title: M1 Intership
     company: Laboratoire plasma et conversion d'énergie - LAPLACE
-    company_url: 'http://www.laplace.univ-tlse.fr/'
+    company_url: ''
     company_logo: org-x
     location: Toulouse
     date_start: '2020-06'
