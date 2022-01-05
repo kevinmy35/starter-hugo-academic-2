@@ -34,7 +34,7 @@ experience:
         * Analysing
         * Modelling
         * Simulation
-		* Optimisation
+        * Optimization
         
   - title: 'M1 Intership'
     company: 'Laboratoire plasma et conversion d'énergie - LAPLACE'
