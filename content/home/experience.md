@@ -39,11 +39,11 @@ experience:
     date_end: '2021-08-31'
     description: |2-
         Responsibilities include:
-		
-        * Optimize bull-eye nanostructure
-		* Simulation in Lumerical FDTD
-		* Optimization in MATLAB
-		
+        
+        * Optimize the bull-eye nanostructure
+        * Modelling in Lumerical FDTD
+        * Optimization in MATLAB
+        
   - title: M1 Intership
     company: Laboratoire plasma et conversion d'énergie - LAPLACE
     company_url: 'http://www.laplace.univ-tlse.fr/'
