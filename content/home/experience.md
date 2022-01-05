@@ -44,8 +44,7 @@ experience:
     location: Toulouse
     date_start: '2020-06'
     date_end: '2020-08'
-    description: Development under MATLAB of a program for calculating electromagnetic fields around a rectangular opening supplied by a guide
-rectangular wave
+    description: Development under MATLAB of a program for calculating electromagnetic fields around a rectangular opening supplied by a guide rectangular wave.
 
 design:
   columns: '2'
