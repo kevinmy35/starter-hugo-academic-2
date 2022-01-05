@@ -22,17 +22,14 @@ organizations:
     url: https://www.sorbonne-universite.fr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Computational Physics
+      institution: INP-ENSEEIHT
+      year: 2021
+    - course: BEng in Automation
+      institution: Noreastern University
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
 ---
-Ye Mou is currently a PhD student at the laboratory [INSP](https://w3.insp.upmc.fr/) of Sorbonne Université. He received his Bachelor of engeering degree and Master of engenerring degree from [Noreastern University](http://www.neu.edu.cn/) (China) and [INP-ENSEEIHT](https://www.enseeiht.fr/fr/index.html) (France), respectively.
+Ye Mou is currently a PhD student at the laboratory [INSP](https://w3.insp.upmc.fr/) of Sorbonne Université. He received his Bachelor of Engineering and Master of Engineering from [Northeastern University](http://www.neu.edu.cn/) (China) and [INP-ENSEEIHT](https://www.enseeiht.fr/fr/index.html) (France), respectively.
