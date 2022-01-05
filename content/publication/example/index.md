@@ -32,7 +32,7 @@ authors:
   - Laurent Coolen
   - Mathieu Mivelle
 author_notes: []
-publication: In *ACS nano*
+publication: In *ACS Nano*
 summary: ""
 url_dataset: ""
 url_project: ""
