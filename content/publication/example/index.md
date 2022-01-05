@@ -43,7 +43,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-date: 2022-01-05T13:31:00.000Z
+date: 2021-12-28T00:00:00.000Z
 url_slides: ""
 publishDate: 2021-12-28T00:00:00.000Z
 url_poster: ""
