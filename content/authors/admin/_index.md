@@ -26,7 +26,7 @@ education:
       institution: INP-ENSEEIHT
       year: 2021
     - course: BEng in Automation
-      institution: Noreastern University
+      institution: Northeastern University
       year: 2019
 email: ""
 superuser: true
