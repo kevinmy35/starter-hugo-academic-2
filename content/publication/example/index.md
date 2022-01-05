@@ -21,7 +21,6 @@ abstract: The inverse Faraday effect allows the generation of stationary
   magnetic skyrmion, magnetic circular dichroism, to spin control, spin
   precession, spin currents, and spin-waves, among others.
 slides: ""
-url_pdf: "https://pubs.acs.org/doi/pdf/10.1021/acsnano.1c06922"
 publication_types:
   - "2"
 authors:
