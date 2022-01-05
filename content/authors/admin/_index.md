@@ -1,12 +1,12 @@
 ---
 title: Ye Mou
 role: PhD student at INSP, Sorbonne Université
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Nanophotonics & Plasmonics, Inverse Faraday
+  Effect, Light-Matter interactions, Numerical Optimization
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Numerical Optimization
+  - Black–Box Optimization
+  - Nanoantenna design
 social:
   - icon: envelope
     icon_pack: fas
