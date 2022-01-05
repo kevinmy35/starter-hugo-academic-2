@@ -25,10 +25,10 @@ organizations:
 education:
   courses:
     - course: MEng in Computational Physics
-      institution:[INP-ENSEEIHT](https://www.enseeiht.fr/fr/index.html)
+      institution: INP-ENSEEIHT
       year: 2021
     - course: BEng in Automation
-      institution:[Northeastern University](http://www.neu.edu.cn/)
+      institution: Northeastern University
       year: 2019
 email: ""
 superuser: true
