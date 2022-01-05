@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: M2 Intership
-    company: Institut des NanoSciences de Paris
-    company_url: ''
+    company: Institut des NanoSciences de Paris - INSP
+    company_url: 'https://w3.insp.upmc.fr/'
     company_logo: org-gc
-    location: California
+    location: Paris
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -38,10 +38,10 @@ experience:
         * Optimization
         
   - title: M1 Intership
-    company: Laboratoire plasma et conversion d'énergie
-    company_url: ''
+    company: Laboratoire plasma et conversion d'énergie - LAPLACE
+    company_url: 'http://www.laplace.univ-tlse.fr/'
     company_logo: org-x
-    location: California
+    location: Toulouse
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
