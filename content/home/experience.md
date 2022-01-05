@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: Tesla Range Magnetic Field Optically Generated.
 
-  - title: M2 Intership
+  - title: M2 Internship
     company: Institut des NanoSciences de Paris - INSP
     company_url: 'https://w3.insp.upmc.fr/'
     location: Paris
@@ -44,7 +44,7 @@ experience:
         * Modelling and simulation in Lumerical FDTD
         * Optimization in MATLAB
         
-  - title: M1 Intership
+  - title: M1 Internship
     company: Laboratoire plasma et conversion d'énergie - LAPLACE
     company_url: 'http://www.laplace.univ-tlse.fr/'
     location: Toulouse
