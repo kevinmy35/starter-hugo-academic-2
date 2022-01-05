@@ -5,8 +5,8 @@ avatar_filename: ""
 bio: My research interests include Nanophotonics & Plasmonics, Inverse Faraday
   Effect, Light-Matter interactions, Numerical Optimization
 interests:
-  - Numerical Optimization
-  - Black–Box Optimization
+  - Numerical optimization
+  - Black–Box optimization
   - Nanoantenna design
 social:
   - icon: envelope
