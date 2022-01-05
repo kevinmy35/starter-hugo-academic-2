@@ -22,10 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: M1 Intership
+    company: Institut des NanoSciences de Paris - INSP
+    company_url: 'https://w3.insp.upmc.fr/'
+    location: Paris
+    date_start: '2021-10-01'
+    date_end: ''
+    description: Tesla Range Magnetic Field Optically Generated.
+
   - title: M2 Intership
     company: Institut des NanoSciences de Paris - INSP
     company_url: 'https://w3.insp.upmc.fr/'
-    company_logo: org-gc
     location: Paris
     date_start: '2021-04-01'
     date_end: '2021-08-31'
@@ -40,7 +48,6 @@ experience:
   - title: M1 Intership
     company: Laboratoire plasma et conversion d'énergie - LAPLACE
     company_url: 'http://www.laplace.univ-tlse.fr/'
-    company_logo: org-x
     location: Toulouse
     date_start: '2020-07-13'
     date_end: '2020-09-14'
