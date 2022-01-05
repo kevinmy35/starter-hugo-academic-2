@@ -1,6 +1,6 @@
 ---
 title: Ye Mou
-role: PhD student at INSP, Sorbonne Université
+role: PhD student at Institut des NanoSciences de Paris (INSP)
 bio: My research interests include Nanophotonics & Plasmonics, Inverse Faraday
   Effect, Light-Matter interactions, Numerical Optimization
 interests:
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sorbonne Université
+    url: https://www.sorbonne-universite.fr/
 education:
   courses:
     - course: PhD in Artificial Intelligence
