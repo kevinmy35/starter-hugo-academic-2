@@ -30,9 +30,9 @@ address:
   country: France
   country_code: FR
 
-directions: Campus Pierre et Marie Curie, Tour 22-32
+directions: Campus Pierre et Marie Curie, Tour 22-32, 5th floor, Office 521
 office_hours:
-  - 'Monday-Friday 9:00 to 18:00'
+  - 'Monday - Friday: 9:00 to 18:00'
 # Site header
 
 main_menu:
