@@ -40,8 +40,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Optimize the bull-eye nanostructure
-        * Modelling in Lumerical FDTD
+        * To optimize the dimensions of bull-eye nanostructure in order to generate the strongest stationary magnetic fields
+        * Modelling and simulation in Lumerical FDTD
         * Optimization in MATLAB
         
   - title: M1 Intership
