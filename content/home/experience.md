@@ -37,9 +37,9 @@ experience:
     location: Paris
     date_start: '2021-04-01'
     date_end: '2021-08-31'
-    description: |3-
-	    To optimize the bull-eye nanostructure which can generate the strongest stationary magnetic fields under cicularly polarized light excitation.
-        Responsibilities include:
+    description:
+	    1.To optimize the bull-eye nanostructure which can generate the strongest stationary magnetic fields under cicularly polarized light excitation.
+        2.Responsibilities include:
         
         * Analysing
         * Modelling
