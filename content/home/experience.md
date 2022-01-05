@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: M1 Intership
+  - title: PhD position
     company: Institut des NanoSciences de Paris - INSP
     company_url: 'https://w3.insp.upmc.fr/'
     location: Paris
