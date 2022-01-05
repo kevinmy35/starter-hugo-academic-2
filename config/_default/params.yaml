@@ -32,8 +32,8 @@ address:
   country_code: FR
   
 coordinates:
-  latitude: '48.848297272125684'
-  longitude: '2.356411098052364'
+  latitude: '37.4275'
+  longitude: '-122.1697'
 directions: Tour 22-32
 # Site header
 
@@ -122,7 +122,7 @@ search:
     show_logo: false
 map:
   provider: ''
-  api_key: 'https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap'
+  api_key: ''
   zoom: 15
 marketing:
   google_analytics: ''
