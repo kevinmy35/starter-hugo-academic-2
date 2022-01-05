@@ -22,6 +22,18 @@ twitter: ''
 
 email: ye.mou@insp.upmc.fr
 phone: +33(0)6 67 97 87 16 
+address:
+  street: 4 Place Jussieu
+  city: Paris
+  region: Île-de-France
+  postcode: '75005'
+  country: France
+  country_code: FR
+  
+coordinates:
+  latitude: '48.848297272125684'
+  longitude: '2.356411098052364'
+directions: Tour 22-32
 # Site header
 
 main_menu:
