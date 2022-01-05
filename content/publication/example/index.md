@@ -32,12 +32,6 @@ authors:
   - Mathieu Mivelle
 author_notes: []
 publication: In *ACS Nano*
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
 title: Tesla-Range Femtosecond Pulses of Stationary Magnetic Field, Optically
   Generated at the Nanoscale in a Plasmonic Antenna
 doi: https://doi.org/10.1021/acsnano.1c06922
