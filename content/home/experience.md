@@ -27,8 +27,8 @@ experience:
     company_url: 'https://w3.insp.upmc.fr/'
     company_logo: org-gc
     location: Paris
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-04-01'
+    date_end: '2021-08-31'
     description: |2-
         Responsibilities include:
         
@@ -42,8 +42,8 @@ experience:
     company_url: 'http://www.laplace.univ-tlse.fr/'
     company_logo: org-x
     location: Toulouse
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2020-07-13'
+    date_end: '2020-09-14'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
